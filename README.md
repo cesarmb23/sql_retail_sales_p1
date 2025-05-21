@@ -5,6 +5,7 @@
 **Project Title**: Retail Sales Analysis  
 **Level**: Beginner  
 **Database**: `p1_retail_db`
+
 **Author & Source**: This project follows the tutorial created by - Zero Analyst - All credit goes to the original author.
 
 
